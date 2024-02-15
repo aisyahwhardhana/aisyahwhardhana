@@ -29,9 +29,10 @@
 ### :computer: Programming Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30px">
-  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg" width="30px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="30px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="30px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="30px">
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg" width="30px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="30px">
 </div>
 <br>
