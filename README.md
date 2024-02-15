@@ -7,7 +7,7 @@
 
 
 <div id="button" align="center">
-  <a href="//https://www.linkedin.com/in/aisyah-whardhana/">
+  <a href="https://www.linkedin.com/in/aisyah-whardhana/">
   <img src="https://assets.dryicons.com/uploads/icon/svg/8337/a347cd89-1662-4421-be90-58e5e8004eae.svg" width=20>
   </a>
   <a href="https://www.instagram.com/drizzlinggumdrops/">
