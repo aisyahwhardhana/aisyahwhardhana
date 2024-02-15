@@ -7,10 +7,10 @@
 
 
 <div id="button" align="center">
-  <a href="https://https://www.linkedin.com/in/aisyah-whardhana/">
+  <a href="//https://www.linkedin.com/in/aisyah-whardhana/">
   <img src="https://assets.dryicons.com/uploads/icon/svg/8337/a347cd89-1662-4421-be90-58e5e8004eae.svg" width=20>
   </a>
-  <a href="https://https://www.instagram.com/drizzlinggumdrops/">
+  <a href="https://www.instagram.com/drizzlinggumdrops/">
   <img src="https://assets.dryicons.com/uploads/icon/svg/8329/f654bca4-dd69-4369-a22a-765059d9436b.svg" width=20>
   </a>
 </div>
